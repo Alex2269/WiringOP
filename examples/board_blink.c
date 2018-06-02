@@ -1,5 +1,4 @@
 /*
- * 
  *  in the beginning it is necessary to establish library
  *  https://github.com/Alex2269/WiringOP
     gcc  -o bblink -O3 -Wall -I/usr/local/include -Winline -pipe -L/usr/local/lib board_blink.c -lwiringPi -lwiringPiDev -lpthread -lm
